@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+h1 {
+    text-align: center;
+    color: red;
+}
+.topsection > img {
+    margin-left: 545px;
+    width: 28%;
+    height: auto;
+}
+.secondsection > img {
+    height: auto;
+}
+.outsideview{
+    margin-left: 1106px;
+    width: 400px;
+    height: 270px;
+}
+.view{
+    text-align: right;
+}
+.interest{
+    text-align: center;
+    color: red;
+}
